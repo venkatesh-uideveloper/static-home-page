@@ -2,4 +2,4 @@
 
 _screenshot_
 
-![alt text](./assets/screnshot_img.png)
+![alt text](./assets/screnshot_img.PNG)
